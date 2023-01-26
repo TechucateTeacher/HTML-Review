@@ -1,0 +1,64 @@
+Below are a few things you will need to complete your assignment:
+
+***LINKS MUST INCLUDE https:// or http:// ***
+
+Anchor Link:
+
+https://rootedschoolindy.org/ 
+
+Image Link:
+
+#1
+https://cdn.britannica.com/18/137318-050-29F7072E/rooster-Rhode-Island-Red-roosters-chicken-domestication.jpg?w=400&h=300&c=crop
+#2
+
+https://a.thumbs.redditmedia.com/d0XveRjSDd3rK6mNuy2Y3HkwDN86yFp2BgETum5KAE4.png
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How to use an Image tag:
+
+<img src="Link Here">
+
+*** Image tags are SELF-CLOSING. They DO NOT require a closing tag ***
+
+
+How to use an Anchor tag:
+
+<a href="link here">Content you want to become a link</a>
+
+
+Using an Anchor to target pieces of content:
+
+<p>I want THIS to be a link</p>  -- Add an anchor to the word "THIS" by adding a opening <a> tag directly in front and a closing </a> tag directly after the word.
+
+<p>I want <a href="https://rootedschoolindy.org/">THIS</a> to be a link</p> -- Notice only the word "THIS" is wrapped in an Anchor <a> tag.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+***REMEMBER SYNTAX IS IMPORTANT***
+
+
+HTML Syntax:
+
+    <tag>Content</tag>
+
+    <h1>This is a Header</h1>
+    
+    
+
+CSS Syntax:
+
+    Selector {
+        Property: Value;
+    }
+
+    h1 {
+        color: red;
+    }
+
+    .blue-box { 
+        color: blue;
+        height: 100px;
+        width: 100px;
+    }
